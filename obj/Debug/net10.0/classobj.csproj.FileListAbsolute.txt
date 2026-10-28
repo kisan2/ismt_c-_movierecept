@@ -1,0 +1,14 @@
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\bin\Debug\net10.0\classobj.exe
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\bin\Debug\net10.0\classobj.deps.json
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\bin\Debug\net10.0\classobj.runtimeconfig.json
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\bin\Debug\net10.0\classobj.dll
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\bin\Debug\net10.0\classobj.pdb
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.AssemblyInfo.cs
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.dll
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\refint\classobj.dll
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.pdb
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\classobj.genruntimeconfig.cache
+C:\Users\Acer\Downloads\ismt c#\c# ismt class\section A\classobj\obj\Debug\net10.0\ref\classobj.dll
